@@ -1,0 +1,20 @@
+
+** ÔÑÍ :
+ git clone áÅÖÇİÉ ÇáÜrepository áÌåÇÒß
+git add . áÅÖÇİÉ ÊÚÏíáÇÊß ááÜ staging area
+git commit -m"" áÊÓÌíá ÏÚÏíáß İí commit
+git checkout -b áÅÖÇİÉ branch ÌÏíÏ æÇÎÊíÇÑå ááÔÛá İíå
+--------------------------------------------------------------------------
+git push origin master(or any other branch)t
+áÑİÚ ÊÚÏíáÇÊß æ commits Úáì github
+-----------------------------------------------------------------------------
+git pull origin master (or any other branch name) t 
+áÊÍãíá ÂÎÑ ÇáÊÚÏíáÇÊ Úáì github Åáì ÌåÇÒß
+----------------------
+git reset --hard áÅáÛÇÁ ÌãíÚ ÇáÊÚÏíáÇÊ ÇáÊí áã íÊã Úãá commits áåÇ
+---------------------------
+git merge firstbranch secondbranch áÏãÌ 2 branches 
+æããßä ØÑíŞÉ ÃÎÑì ÃİÖá Úä ØÑíŞ github ãÈÇÔÑÉ pull request
+----------------------
+ÔíÁ ÂÎÑ áã íĞßÑ İí ÇáİíÏíæ æåæ Úáì github İŞØ
+fork æÏí ãÚäÇåÇ ÊÍãíá repository ãä ÔÎÕ ÂÎÑ Åáíß (ãËá clone æáßä ãä ÃßÇæäÊ áÃßÇæäÊ)
