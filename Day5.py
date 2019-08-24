@@ -4,4 +4,7 @@ Type "copyright", "credits" or "license()" for more information.
 >>> basket=x+y+z
 >>> print(basket)
 appleorangelimon
->>> 
+>>> n=5
+[basket[i:i+n]for i in range(0,len(basket),n)]
+
+ 
