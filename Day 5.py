@@ -5,6 +5,6 @@ Type "copyright", "credits" or "license()" for more information.
 >>> print(basket)
 appleorangelimon
 >>> n=5
-[basket[i:i+n]for i in range(0,len(basket),n)]
-
- 
+>>> [basket[i:i+n]for i in range(0,len(basket),n)]
+['apple', 'orang', 'elimo', 'n']
+>>> 
